@@ -13,7 +13,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [] Criar before e after para testes
 - [] Testar a existência de arquivos após criação
-- [] Deletar tudo o que foi criado
+- [] Deletar tudo o que foi criado(rollback)
 
 ## 💻 Pré-requisitos
 
